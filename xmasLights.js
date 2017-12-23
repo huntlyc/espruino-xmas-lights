@@ -54,8 +54,6 @@ XmasLights.prototype.toggleMode = function() {
 		if(this.currentMode > 2){
 			this.currentMode = 0;
 		}
-
-      console.log('mode ' + this.currentMode);
 	}
 };
 
