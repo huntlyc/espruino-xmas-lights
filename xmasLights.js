@@ -1,6 +1,6 @@
 /**!
  *
- * Espurino Xmas Light hack
+ * Espruino Xmas Light hack
  * ========================
  * Created 2017-12-23 by Huntly Cameron <huntly.cameron@gmail.com>
  * Blinky, binky lights. Inspired by late 90's web design, lol.
